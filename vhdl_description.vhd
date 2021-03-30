@@ -201,7 +201,7 @@ BEGIN
                 END IF;
             ELSE IF state = '10' THEN
                 IF button = '0'
-                    state =< '00'
+                    state <= '00'
                 END IF
             END IF;
         END IF;
