@@ -26,13 +26,13 @@ The filtering state is further divided into 4 sub-states:
 ### FSM chart
 
 The super states and transitions between them can be summarised with the FSM (Finite State Machine) chart below:
-![FSM chart](fsm.png)
+![FSM chart](solution/fsm.png)
 
 ### ASM chart
 
 The transitions between the substates can also be included into a chart, leading to the ASM (Algorithmic State Machine) chart.
 The entire logic of the working of my implementation of the image filtering system can be summarised with the ASM chart below:
-![ASM chart](asm.png)
+![ASM chart](solution/asm.png)
 
 ## Conclusion
 
