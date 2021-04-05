@@ -1,5 +1,5 @@
 # Digital-Image-Filtering-VHDL
-A VHDL implementation of a digital image filtering system on FPGAs
+A VHDL description of a digital image filtering system on FPGAs
 
 ## Problem Statement
 
